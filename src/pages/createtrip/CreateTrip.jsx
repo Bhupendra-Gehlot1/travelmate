@@ -143,6 +143,7 @@ function CreateTrip() {
                 setPlace(value);
                 handleInputChange("location", value);
               },
+              placeholder: "Search your favourite destination here",
             }}
           />
         </div>
@@ -152,7 +153,7 @@ function CreateTrip() {
             How many days are you planning your trip?
           </h2>
           <Input
-            placeholder={"Ex.3 (This should be less than 5 days)"}
+            placeholder={"Ex.3 (This should be less than 5 days for optimal result)"}
             type="number"
             onChange={(e) => handleInputChange("noOfDays", e.target.value)}
           />
