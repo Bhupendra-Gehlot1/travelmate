@@ -19,5 +19,5 @@ Explore Travel Mate to effortlessly plan your next adventure!
 
 ### [GitHub Repository](https://github.com/Bhupendra-Gehlot1/travelmate/)
 
-### [Live Website](https://travel-mate1.netlify.app/
+### [Live Website](https://travel-mate1.netlify.app/)
 
